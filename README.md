@@ -39,8 +39,8 @@ The project consists of a React application with the following structure:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/alinapiccardo/irichallenge.git
+   cd challenge
    ```
 
 2. **Install Dependencies:**
